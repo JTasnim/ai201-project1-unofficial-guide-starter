@@ -1,0 +1,27 @@
+Professor: Jitendra Malik
+Course: CS189, CS280
+University: UC Berkeley
+
+Review 1:
+Malik is a legend in the field and you feel that in lecture. He's one of the founders of modern computer vision and he teaches CS189 like someone who actually invented some of the algorithms you're learning. The math is heavy — linear algebra and probability are not optional prerequisites, they're daily requirements. His explanations are clear but assume mathematical maturity.
+
+Review 2:
+CS189 with Malik is not a class you take to get an easy ML credential. It's a class you take if you want to actually understand machine learning from first principles. Derivations happen on the board in real time. If you can't follow the math, you'll be lost. That said, completing this class gives you a level of understanding that makes every ML paper you read afterward easier.
+
+Review 3:
+Malik's lectures are recorded and honestly better watched at home where you can pause and rewind. In person he moves fast. The homework assignments are challenging and require real mathematical work — not just plugging into sklearn. Office hours are helpful but lines are long. Exams are hard, curved, and test whether you understood the derivations, not just the conclusions.
+
+Review 4:
+Took CS189 expecting a machine learning survey and got a rigorous mathematical treatment of statistical learning theory. Malik doesn't apologize for the difficulty. He expects you to do the readings, work through the derivations, and come to office hours if you're stuck. The grading is fair. The curve is generous because everyone finds it hard.
+
+Review 5:
+The best thing about Malik's CS189 is that you leave knowing why algorithms work, not just how to use them. The worst thing is the pacing — he covers an enormous amount of material and the homeworks don't always align with what was just covered in lecture. Budget 15-20 hours per week for this class if you want to do well.
+
+Review 6:
+Malik clearly loves the theory and it comes through. His CS280 graduate seminar is excellent if you've taken 189 — he connects classical computer vision to modern deep learning in a way that's genuinely illuminating. For undergrads taking 189: take it seriously from week one. The material compounds and falling behind is very hard to recover from.
+
+Review 7:
+He's a world-class researcher who is also a genuinely good teacher, which is rarer than it sounds at research universities. His intuitions about machine learning are hard-won from decades of research and he shares them generously. Exams test deep understanding, not memorization. If you're serious about ML, this is the class to take.
+
+Review 8:
+CS189 has a reputation for being brutal and it's earned. Malik's version is particularly math-heavy. That said, every student I know who got through it felt more confident reading ML papers afterward. The homeworks are long but edu

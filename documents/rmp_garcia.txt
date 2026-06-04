@@ -1,0 +1,27 @@
+Professor: Dan Garcia
+Course: CS10, CS61C
+University: UC Berkeley
+
+Review 1:
+Dan Garcia is the most enthusiastic professor I have ever encountered in any subject at any level. His energy in lecture is genuinely infectious — he makes you feel like computer science is the most exciting thing in the world. CS10 is designed for non-majors and beginners and he never makes you feel dumb for not knowing something. If you're new to CS, start here.
+
+Review 2:
+Took CS61C with Garcia after hearing great things and he lived up to the hype. He makes low-level systems content (C, RISC-V, caches) approachable without dumbing it down. He uses props, demos, and callbacks to earlier content constantly. Exams are hard but he provides practice exams that are representative of the real thing. Office hours are well-run and he shows up to them himself.
+
+Review 3:
+Garcia is what every intro professor should be. He remembers that students are learning this for the first time and meets them there. CS10 is genuinely fun — the Snap! projects are creative and you feel accomplished after each one. He also clearly cares about diversity in CS and creates a classroom environment where everyone feels welcome. Would take any class he teaches.
+
+Review 4:
+CS61C is legitimately one of the hardest classes in the lower division but Garcia makes it survivable. His lectures are entertaining and he's mastered the art of the callback — referencing a concept from three weeks ago at the exact right moment. The projects (especially the CPU project) are brutal in the best way. He's also great at responding to student concerns about pacing or workload.
+
+Review 5:
+Garcia's enthusiasm is real, not performative. You can tell he's been teaching this material for decades and still genuinely loves it. He knows every student trick (starting the project the night before, copying from a friend) and designs around them without being punitive. His assessments test understanding, not memorization. Best professor for someone new to CS, hands down.
+
+Review 6:
+I was a nervous non-CS student who took CS10 as a breadth requirement and ended up declaring CS as a second major. Garcia is that good. He breaks down intimidating concepts with humor and patience, and the course is structured so that every student can succeed if they put in the work. He also gives the most creative extra credit problems I've seen anywhere.
+
+Review 7:
+Took 61C with Garcia and came in dreading C programming. Left actually enjoying systems programming. His ability to make hardware and memory management intuitive is impressive. The workload is significant (this is a 4-unit class and it shows) but his course staff is well-organized. Exams are hard; curve usually brings things to a reasonable place.
+
+Review 8:
+Garcia remembers students' names, shows up to his own office hours, and responds to emails within 24 hours. In a department where some professors are clearly just here for the research, he's a genuine exception. CS10 is the best intro course I can recommend to anyone unsure about whether CS is for them. He will make you sure.

@@ -1,0 +1,27 @@
+Professor: Ion Stoica
+Course: CS162, CS294
+University: UC Berkeley
+
+Review 1:
+Stoica is a distributed systems legend — he co-created Spark, Ray, and Chord — and CS162 with him feels like being taught operating systems by someone who's actually built production systems at scale. He connects textbook OS concepts to real engineering tradeoffs constantly. The class is hard but the projects are the best in the lower/upper division boundary.
+
+Review 2:
+CS162 is a brutal class and Stoica doesn't make it easier, but he does make it meaningful. The Pintos project series (building a real operating system) is the most challenging and most rewarding thing I did at Berkeley. By the end you understand exactly how a computer works at the systems level. Office hours are crowded but helpful.
+
+Review 3:
+Stoica's lectures are clear and well-paced. He's good at building up from first principles and checking in on whether students are following. His examples always connect to real systems — he'll explain a scheduling algorithm and then describe exactly how Linux implements it. That grounding in real systems makes the abstract concepts stick.
+
+Review 4:
+The group project structure in CS162 is either great or terrible depending on your group. Stoica doesn't spend much time managing group dynamics, so if you have a weak group member, you're largely on your own to manage it. The technical content of the class is excellent. The project management aspects are a source of significant student stress.
+
+Review 5:
+Stoica's CS294 on distributed systems was the class that made me want to pursue systems research. He covers Raft, Paxos, and modern cloud infrastructure with genuine insight from someone who's built these systems. Guest lectures from industry engineers are excellent. This is a graduate-level seminar that serious undergrads should seek out.
+
+Review 6:
+CS162 was one of my favorite classes at Berkeley. Stoica is a great lecturer and clearly enjoys teaching. The Pintos projects are famously difficult — start every phase immediately, don't wait — but finishing each one feels like a real accomplishment. The final exam covers a wide range of material; use the practice exams, they're very representative.
+
+Review 7:
+Stoica moves fast in lecture and doesn't slow down if you're lost — he expects you to use office hours or Ed for follow-up. His teaching assistants are excellent and often carry the day-to-day instruction. He's very approachable at office hours despite being a prominent researcher. He seems to genuinely enjoy talking with undergrads about systems ideas.
+
+Review 8:
+This class will make you a much better systems programmer. Stoica explains memory management, concurrency, and file systems in a way that finally made C programming make sense to me. The class is graded fairly and curved reasonably. Do not underestimate the Pintos projects — they will take longer than you expect every single time.

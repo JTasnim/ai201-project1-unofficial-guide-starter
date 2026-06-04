@@ -1,0 +1,27 @@
+Professor: Alistair Sinclair
+Course: CS170
+University: UC Berkeley
+
+Review 1:
+Sinclair is the gold standard for CS170 (Algorithms). His lectures are exceptionally well-organized — he builds up every algorithm from first principles, proves correctness carefully, and always situates the algorithm in the broader context of what problems it solves. If you want to actually understand algorithms rather than just pass the class, take it with him.
+
+Review 2:
+CS170 is one of the hardest classes in the CS curriculum and Sinclair makes it as clear as it can possibly be. He's patient, precise, and deeply knowledgeable. His proofs are careful and he explains each step. That said, this is still a hard class — the material is inherently difficult and the exams are demanding. Go to every lecture and do every practice problem.
+
+Review 3:
+Sinclair's office hours are unusually good. He explains things multiple ways until you understand, and he doesn't make you feel dumb for not getting it the first time. He also has a gift for identifying exactly where your understanding breaks down rather than just re-explaining the whole thing. Go to his office hours before you're desperate, not after.
+
+Review 4:
+One of the best professors at Berkeley in any department. His teaching is rigorous without being cruel and demanding without being unfair. The homeworks are hard and require genuine creativity on some problems, but the grading is fair and rubrics are clearly communicated. The final exam is comprehensive but representative of what was actually taught.
+
+Review 5:
+Sinclair's CS170 gave me the theoretical foundation for algorithms that I've used in every subsequent CS class and in my internship interviews. His treatment of graph algorithms, dynamic programming, and NP-completeness is clear and complete. He doesn't skip the proofs, which some students find tedious but which I found essential for actual understanding.
+
+Review 6:
+The homeworks in CS170 with Sinclair are hard enough that I consistently needed office hours or study group time to complete them. That's actually the right level of difficulty for a class like this — if the homeworks were easy, the exams would feel impossible. He posts homework solutions promptly and they're detailed enough to learn from.
+
+Review 7:
+Sinclair is gentle and patient in a department that sometimes isn't. He explains material at the board carefully, takes questions seriously, and never makes students feel bad for being confused. The class is still hard, but the difficulty comes from the material, not from the instructor. The best algorithms professor I could have asked for.
+
+Review 8:
+His explanations of NP-completeness and reduction proofs are the clearest I've encountered anywhere, including textbooks. Many students find this topic the most confusing in the class; under Sinclair it became one of the parts I felt most confident about. He uses carefully chosen examples that build intuition before the formal definition. A genuinely talented educator.

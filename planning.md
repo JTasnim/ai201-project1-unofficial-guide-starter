@@ -11,6 +11,10 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+CS professor and course reviews for UC Berkeley's CS department.
+
+This knowledge is valuable because it's the kind of insider information students desperately need which professors give useful feedback, whose exams are fair, which courses have accessible office hours but it's completely absent from official university channels. The CS department website lists faculty bios and research interests. It tells you nothing about whether a professor's midterms are curved, whether they respond to emails, or whether attending lecture actually matters. Rate My Professors aggregates this student-generated knowledge but makes it unsearchable at scale; you'd have to click through dozens of professor pages, read hundreds of individual reviews, and manually synthesize patterns. This RAG system makes that corpus answerable by plain-language question.
+
 ---
 
 ## Documents
@@ -18,18 +22,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source | Description | URL or location |
+| --- | ------ | ----------- | --------------- |
+| 1   |        |             |                 |
+| 2   |        |             |                 |
+| 3   |        |             |                 |
+| 4   |        |             |                 |
+| 5   |        |             |                 |
+| 6   |        |             |                 |
+| 7   |        |             |                 |
+| 8   |        |             |                 |
+| 9   |        |             |                 |
+| 10  |        |             |                 |
 
 ---
 
@@ -71,13 +75,13 @@
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| #   | Question | Expected answer |
+| --- | -------- | --------------- |
+| 1   |          |                 |
+| 2   |          |                 |
+| 3   |          |                 |
+| 4   |          |                 |
+| 5   |          |                 |
 
 ---
 

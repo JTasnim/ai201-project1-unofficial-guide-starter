@@ -1,0 +1,27 @@
+Professor: Paul Hilfinger
+Course: CS61A
+University: UC Berkeley
+
+Review 1:
+Hilfinger is one of the most knowledgeable professors in the department and one of the hardest to follow in real time. His lectures assume you're keeping up and don't slow down if you're not. The upside: the course is extremely well-structured and the projects (Hog, Ants, Scheme) are excellent. Watch his lectures at home at your own pace and go to TA sections for the interactive learning.
+
+Review 2:
+CS61A with Hilfinger was the class that almost made me switch majors. It's not that he's a bad professor — he's clearly brilliant — but his lecture style is very dry and hard to follow if you're new to programming. The TAs saved me. Go to every discussion section and lab. Do every practice problem. The class is survivable if you use the support structure.
+
+Review 3:
+People are too hard on Hilfinger. Yes, his lectures are dense and he doesn't do a lot of hand-holding, but the course materials he's built over decades are genuinely excellent. The textbook (Composing Programs) is free online and explains everything he covers. If you read it alongside lectures you'll be fine. He also has high standards for a reason — this is the gateway to the rest of the CS curriculum.
+
+Review 4:
+Hilfinger has been teaching 61A for longer than most Berkeley CS students have been alive and it shows — in a good way. The curriculum is thoughtfully sequenced and every project builds on the last. He's not warm or chatty but he's fair. Exams are hard but not surprising if you've done the practice exams. The curve is consistent year to year.
+
+Review 5:
+Office hours with Hilfinger are different from what you'd expect. He doesn't give hints — he asks you questions and waits for you to figure it out yourself. It's uncomfortable the first time but I learned more in 20 minutes with him than in hours of online tutorials. He cares about genuine understanding, not performance.
+
+Review 6:
+The difficulty of CS61A under Hilfinger is overstated online. It's a hard class, but the workload is manageable if you start assignments early. The autograder for projects is good and gives useful error messages. His exams have a consistent style — if you do all the past exams (they're all posted going back years), you will not be surprised. He's fair, just demanding.
+
+Review 7:
+Not a class for people who need a lot of reassurance. Hilfinger will not tell you you're doing a great job. He will tell you when you're wrong and expect you to correct it. That's actually how I prefer to learn, so I loved the class. His grading is strict but consistent. TAs are well-trained. Start the Scheme project early — everyone who doesn't regrets it.
+
+Review 8:
+Hilfinger's CS61A is the class Berkeley CS is built on. The content — functional programming, higher-order functions, recursion, interpreters — is foundational for everything that comes after. He doesn't make it fun but he makes it rigorous, which is more valuable long-term. If you came to Berkeley to learn real computer science, this is where it starts.

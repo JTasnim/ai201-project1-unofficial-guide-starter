@@ -1,0 +1,27 @@
+Professor: Dawn Song
+Course: CS161, CS294
+University: UC Berkeley
+
+Review 1:
+Dawn Song is one of the most prominent security researchers in the world and CS161 with her is a genuinely exciting class. The content — cryptography, network security, web security, binary exploitation — is directly applicable to real-world work. Her lectures are organized and she brings in guest speakers from industry frequently. The class is hard but the material is intrinsically interesting.
+
+Review 2:
+CS161 is one of the most practical CS classes at Berkeley and Song teaches it well. The projects are hands-on — you'll actually exploit vulnerable programs, implement crypto protocols, and analyze network traffic. The exams require deep understanding of security principles, not just definitions. She's not the warmest professor but she's clear and fair.
+
+Review 3:
+Song is a brilliant researcher but her lectures can feel a bit detached — she covers the material accurately but sometimes it feels like she's presenting a paper rather than teaching a class. The TAs and discussion sections are where the real learning happens for most students. That said, the course structure and project design are excellent and clearly the result of years of refinement.
+
+Review 4:
+Took CS294 (her graduate seminar on blockchain and decentralized systems) as an undergrad with permission. It was one of the most intellectually stimulating courses I took at Berkeley. Song is deeply knowledgeable and pushes you to think critically about both the technical and societal implications of the systems you're studying. Not for everyone but fantastic if you're interested in the space.
+
+Review 5:
+CS161 with Song is a must-take for anyone going into software engineering. Understanding security vulnerabilities from an attacker's perspective changes how you write code permanently. The buffer overflow and web security projects are the highlights. Her exams are tricky — the distractors on multiple choice are cleverly designed to catch surface-level understanding.
+
+Review 6:
+Song's office hours are rare (she's extremely busy with research) but when you get time with her the insights are worth it. She thinks about security at a systems level that most professors don't reach. The course staff she's assembled is strong and covers the day-to-day student interaction well. If you want depth in security, this is the class.
+
+Review 7:
+The workload in CS161 is significant but not unreasonable for an upper-division class. Projects are well-scoped and the specification documents are detailed. Song explains the threat model framing clearly in the first week and it anchors the whole course. My only complaint is that exam curves can be unpredictable — a few exam seasons the median was very low.
+
+Review 8:
+Song clearly cares about the field and about preparing students for real security work. She's updated the curriculum significantly in recent years to include more modern attacks and defenses. The class covers both the classic material (RSA, Diffie-Hellman, SQL injection) and current topics (side-channel attacks, LLM security). Probably the class I've used most directly in my career.

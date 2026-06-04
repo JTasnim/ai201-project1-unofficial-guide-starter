@@ -1,0 +1,27 @@
+Professor: Joseph Gonzalez
+Course: CS189, CS294
+University: UC Berkeley
+
+Review 1:
+Gonzalez is one of the most approachable professors in the upper division. CS189 with him is rigorous but he makes genuine effort to explain intuition before diving into math. His slides are well-designed and posted before lecture. He's active on Ed and responds to student questions himself, which is rare for a professor at his research level.
+
+Review 2:
+Took CS189 with Gonzalez and found it much more accessible than its reputation suggested. He scaffolds the material well — each lecture builds on the last and he explicitly calls back to earlier concepts. The homework is still hard and requires real mathematical work, but his explanations of the underlying intuition make the derivations feel motivated rather than arbitrary.
+
+Review 3:
+Gonzalez's CS294 on large-scale ML systems was one of the best courses I took at Berkeley. He's actively working on problems at the frontier and brings that energy to the classroom. Guest speakers from top research labs are a regular feature. The class requires significant background but rewards students who are serious about ML systems research.
+
+Review 4:
+His teaching style is clear and methodical. He always starts lecture with a roadmap of what will be covered and ends with a summary of key takeaways. For a subject as mathematically dense as CS189, this structure is genuinely helpful. He's also good at flagging which parts of the derivation are important to understand vs. just follow.
+
+Review 5:
+Gonzalez makes CS189 survivable. He holds extra office hours before exams, posts detailed solutions to homeworks, and gives clear rubrics for what's being assessed. The class is still hard — the material is inherently difficult — but you never feel like the difficulty is artificial or punitive. He wants you to succeed and designs the class accordingly.
+
+Review 6:
+CS189 with Gonzalez is well-organized and well-taught. My one critique is that his lectures sometimes prioritize breadth over depth — covering many algorithms at a survey level when going deeper on fewer would produce better understanding. That said, the homeworks force the depth that the lectures occasionally skip. Read the required papers alongside the lectures.
+
+Review 7:
+He's one of the few professors who explicitly teaches you how to read ML research papers, which is a skill most courses assume you already have. This alone made his CS294 worth taking. He's also genuinely interested in what students are working on and makes time to discuss research directions at office hours.
+
+Review 8:
+Strong professor, well-organized course, fair exams. The workload in CS189 is 12-15 hours per week at peak, which is consistent with other upper-division CS classes. He provides a lot of support resources (office hours, Ed, recorded lectures) and uses them well. If you're choosing between instructors for CS189, Gonzalez is a safe bet.

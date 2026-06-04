@@ -1,0 +1,27 @@
+Professor: John Wawrzynek
+Course: CS152, CS250
+University: UC Berkeley
+
+Review 1:
+Wawrzynek is the professor to take for CS152 (Computer Architecture) if you want to go deep into hardware design. He's worked on custom processors and neural network hardware and brings that research perspective to the classroom. The class covers pipeline design, memory hierarchies, and hardware acceleration with more depth than CS61C. Lecture pace is fast but he posts slides in advance.
+
+Review 2:
+CS152 is an upper-division class that takes CS61C and goes much deeper. Wawrzynek is a good lecturer — organized, technically precise, and clear about what's important. The Chisel hardware description language projects are challenging if you haven't seen HDL before. Give yourself extra time for the first assignment to get comfortable with the toolchain.
+
+Review 3:
+Wawrzynek's CS250 (VLSI Systems Design) is a graduate course that serious undergrads can take with permission. It's a demanding class that assumes significant background in digital design. For students interested in chip design or hardware engineering, it's one of the best courses Berkeley offers. Wawrzynek knows the field deeply and it shows in every lecture.
+
+Review 4:
+He's a fair grader and clear about expectations. His exams in CS152 are technically detailed — you need to understand pipelining and hazard resolution at a precise level, not just conceptually. Practice problems from past exams are the best study resource. He makes past exams available and the style is consistent year to year.
+
+Review 5:
+Wawrzynek is not the most entertaining lecturer but he is a very clear one. His explanations of out-of-order execution, branch prediction, and memory systems are some of the clearest I've encountered on these topics. CS152 is a must-take for anyone interested in computer architecture, compilers, or hardware-accelerated ML.
+
+Review 6:
+The Chisel projects in CS152 are frustrating at first because the toolchain is complex and the documentation is not always great. Wawrzynek is aware of this and has been improving the project infrastructure over recent semesters. Once you get past the setup hurdles, the projects are genuinely educational. Implement the pipelined processor carefully — later projects build on it.
+
+Review 7:
+Wawrzynek brings his hardware research experience into every lecture, which makes the course feel relevant and current rather than like you're learning historical material. His discussion of hardware accelerators for machine learning was particularly interesting given how central that's become to the industry. A technically rigorous and valuable class.
+
+Review 8:
+CS152 with Wawrzynek prepared me better for my hardware engineering internship than anything else in the curriculum. He covers exactly the concepts that come up in real processor design work. Office hours are productive and he engages with technical questions seriously. The class is hard but the difficulty is in the material, not in unnecessary gatekeeping.

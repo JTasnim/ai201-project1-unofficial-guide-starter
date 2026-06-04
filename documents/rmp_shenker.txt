@@ -1,0 +1,27 @@
+Professor: Scott Shenker
+Course: CS168
+University: UC Berkeley
+
+Review 1:
+Shenker is one of the most cited computer scientists alive and CS168 (Internet Architecture) with him feels like being taught networking by someone who helped design it. He's one of the architects of the modern internet infrastructure and his lectures reflect that — he doesn't just explain how protocols work, he explains why they were designed that way and what the alternatives were.
+
+Review 2:
+CS168 is an underrated gem in the CS curriculum. Shenker makes networking genuinely interesting, which I didn't think was possible before taking this class. He focuses on design principles rather than protocol memorization, which makes the material more useful and more intellectually engaging. His lectures are polished and well-paced.
+
+Review 3:
+Shenker is brilliant and a great lecturer. The class is lighter on projects than most CS classes — there's more reading and more conceptual work — which is a welcome change. He assigns original research papers and expects you to engage with them seriously. The discussions are excellent. This is one of the few CS classes at Berkeley that teaches you to think about systems at an architectural level.
+
+Review 4:
+Took CS168 expecting a dry networking class and got one of my favorite courses at Berkeley. Shenker has strong opinions about good system design and he makes them interesting. He frames the entire internet as a series of design decisions that could have gone differently, which gives the whole course a narrative structure that most CS classes lack. Highly recommended.
+
+Review 5:
+Shenker's exams test conceptual understanding rather than memorization, which is both refreshing and harder to prepare for. You can't just review definitions — you need to be able to reason about novel network scenarios. His office hours are thoughtful and he engages with student questions seriously. The class size is manageable, which is rare at Berkeley.
+
+Review 6:
+The projects in CS168 are smaller in scope than in 61B or 162 but require more design thinking. You're not just implementing an algorithm — you're making architectural choices and justifying them. Shenker gives good feedback on the design decisions, which is more valuable than a numerical grade on correctness. One of the more intellectually honest classes in the department.
+
+Review 7:
+Shenker's lectures are engaging and his examples are drawn from real internet history — how BGP was designed, why TCP ended up the way it did, what went wrong with early internet security assumptions. That historical context makes the technical content meaningful. He's clearly thought carefully about how to teach this material and it shows.
+
+Review 8:
+CS168 with Shenker gave me a mental model of networked systems that I use constantly in my work. He teaches you to reason about distributed systems under uncertainty, which is the actual challenge in network design. His assignments are creative and require genuine thinking. One of the most intellectually rewarding classes in the upper division.

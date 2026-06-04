@@ -1,0 +1,27 @@
+Professor: Anant Sahai
+Course: CS70
+University: UC Berkeley
+
+Review 1:
+Sahai is brilliant and you can tell he's thought deeply about how to teach discrete math and probability. His lectures are dense — you will not follow everything in real time, but rewatching at 0.75x speed at home is extremely valuable. The homeworks are proof-heavy and punishing if you're not used to mathematical writing. Go to discussion sections, they're where the concepts actually click.
+
+Review 2:
+CS70 is a hard class regardless of who teaches it, but Sahai makes it harder than it needs to be. His lectures are long, often go over time, and cover more than the exams actually test. That said, his exam questions are creative and test genuine understanding, not memorization. If you're strong in math, you'll appreciate his rigor. If you're not, take it with someone else.
+
+Review 3:
+I came into CS70 weak in proofs and left feeling like I could actually do mathematics. Sahai pushes you hard but office hours are genuinely helpful — he doesn't just give you the answer, he asks you questions until you find it yourself. The exams are curved. Workload is 10-15 hours per week minimum. Not a class you can phone in.
+
+Review 4:
+Sahai clearly loves this material and it shows. His lectures on probability were the first time I actually understood Bayes' theorem intuitively, not just mechanically. The downside is that office hours lines during exam season are brutal — sometimes 3+ hours for a 5-minute question. The course is large and under-staffed relative to student need.
+
+Review 5:
+Took CS70 with Sahai expecting the worst based on reviews and actually had a great time. His notes are thorough and he posts everything online. The homework is legitimately hard — expect 12+ hours per problem set — but working through it in study groups is how you actually learn the material. Exams are fair if you've done the homeworks.
+
+Review 6:
+Mixed experience. Sahai is clearly a brilliant researcher but sometimes the lectures feel like he's thinking out loud rather than teaching. When he's on, he's excellent. When he gets lost in a tangent, an hour can go by without covering the assigned content. The class is organized around his vision of how math should be taught, which is interesting but can feel disconnected from what's being tested.
+
+Review 7:
+The strongest thing about Sahai's CS70 is that you leave genuinely understanding probability and discrete math, not just being able to pass tests. The weakest thing is the scale — 700+ students means you feel like a number unless you actively go to office hours. The TAs vary a lot in quality. Curved exams are a relief but the curve can be unpredictable.
+
+Review 8:
+If you can handle the pace and the proof-writing, this is one of the most intellectually rewarding courses at Berkeley. Sahai doesn't dumb things down, which I respect. He expects you to engage seriously with the material. Homework collaboration is encouraged and honestly necessary. Do not take this class alone — find a study group before week two.

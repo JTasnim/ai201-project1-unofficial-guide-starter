@@ -1,0 +1,27 @@
+Professor: Jonathan Shewchuk
+Course: CS61C, CS184
+University: UC Berkeley
+
+Review 1:
+Shewchuk is one of the best lecturers in the CS department. His explanations are precise, his pacing is excellent, and he clearly thinks carefully about how to present each concept. CS61C with him is the ideal introduction to computer architecture — he makes caches, pipelining, and memory hierarchy genuinely understandable. His slides are works of art compared to most CS professors.
+
+Review 2:
+Took CS184 (Computer Graphics) with Shewchuk and it was a transformational course. He explains the math behind rendering, ray tracing, and rasterization clearly and builds intuition before formalism. The projects are visually satisfying in a way most CS projects aren't — you can actually see what you built. He's also very responsive on Ed and at office hours.
+
+Review 3:
+Shewchuk's lecture notes for CS61C are some of the best educational materials I've encountered in any course anywhere. They're dense but incredibly well-written. He teaches the full stack from C programming through assembly, processor design, and memory hierarchy in a way that makes everything feel connected. Take this class with him if you have the option.
+
+Review 4:
+CS184 is a difficult class but Shewchuk structures it carefully. Each assignment builds on the last and he provides extremely detailed specification documents so you're never confused about what's expected. The final project (a path tracer) is something you'll show off for years. He's one of those rare professors who is both a great researcher and a genuinely great teacher.
+
+Review 5:
+Shewchuk is meticulous and expects meticulousness from students. His exams are precise — every word in the question matters — and partial credit is given consistently based on clear rubrics. The workload is significant in CS61C (this is a 4-unit class with heavy projects) but his organization makes it manageable. He posts everything well in advance.
+
+Review 6:
+Best professor I had at Berkeley. His lectures are so clear that I rarely needed to review my notes afterward — I retained the material just from paying attention in class. His CS184 graphics projects are the ones I show in my portfolio. He gives feedback on work that's genuinely useful, not just "good job" or a grade with no explanation.
+
+Review 7:
+Shewchuk takes teaching seriously in a way that distinguishes him from professors who treat classes as an obligation. He has strong opinions about pedagogy and it shows — the curriculum is carefully sequenced, the projects are well-designed, and the exams test the right things. CS61C with him is harder than with some other instructors but you learn more.
+
+Review 8:
+His office hours are low-key and productive. He doesn't give away answers but he asks questions that guide you to the insight you were missing. I never left his office hours feeling like I wasted my time, which is more than I can say for other professors. Highly recommend attending even if you're not stuck — the conversations are educational.

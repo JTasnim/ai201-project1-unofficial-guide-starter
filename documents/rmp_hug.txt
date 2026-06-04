@@ -1,0 +1,27 @@
+Professor: Josh Hug
+Course: CS61B
+University: UC Berkeley
+
+Review 1:
+Josh is honestly one of the best professors I've had at Berkeley. His lectures are super engaging and he clearly cares about whether students actually understand the material. The projects are tough but incredibly well-designed — you learn by doing, not by memorizing. Office hours are always packed but he and the TAs are very responsive on Ed. Workload is heavy, probably 15-20 hours a week during project weeks, but fair if you stay on top of it.
+
+Review 2:
+CS61B with Hug is a rite of passage for Berkeley CS students. The projects (Gitlet especially) are genuinely hard — expect to spend full weekends on them. That said, the autograder gives you unlimited submissions so you can iterate and learn from your mistakes. Hug's exams are difficult but he curves generously. Go to lecture, it's worth it.
+
+Review 3:
+Hug is a fantastic teacher but this class will consume your life if you're taking a heavy semester. The data structures content is excellent and directly useful for internship interviews. He posts all lectures online which is great if you need to rewatch. My only complaint is that office hours lines during project weeks are 2+ hours long — start early and don't wait until the deadline.
+
+Review 4:
+Best professor in the CS department, not even close. He makes hard concepts approachable and his passion for teaching is obvious. Gitlet (the Git implementation project) nearly broke me but I'm genuinely proud of finishing it. Grading is transparent and the TAs are well-trained. If you're a CS major, you'll take this class — just give yourself permission to struggle through it.
+
+Review 5:
+The workload is intense but manageable if you treat it like a job. Hug is very clear about expectations and the skeleton code for projects is well-scaffolded so you're not starting from nothing. Exams pulled heavily from lecture content and past exams, which are all publicly available. He's also genuinely funny in lecture, which helps at 8am.
+
+Review 6:
+Took this pass/no pass my first semester and deeply regret not taking it for a grade — I got an A equivalent and didn't know it. Hug is extremely organized, the course website is excellent, and every deadline is announced weeks in advance. He responds to student concerns seriously and has updated the curriculum based on feedback. A rare professor who actually listens.
+
+Review 7:
+If you're going into software engineering, this class is the most directly useful thing you'll take. Hug teaches Java deeply and the projects mirror real engineering challenges. The Gitlet project alone prepared me better for my internship than anything else. Warning: do not underestimate the time commitment. What looks like a 10-hour project will take 20 if you hit bugs.
+
+Review 8:
+Genuinely couldn't have asked for a better 61B experience. Hug explains the why behind every data structure, not just the how. His analogies are creative and actually stick. Exams are hard but representative of the material. The only rough part is how competitive Berkeley CS students are — the Piazza/Ed threads can feel stressful. Hug himself is never the problem.
